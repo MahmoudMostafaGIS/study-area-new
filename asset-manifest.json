@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MahmoudMostafaGIS/study-area-new.git/static/css/main.9d3b6b2a.css",
-    "main.js": "/MahmoudMostafaGIS/study-area-new.git/static/js/main.fa6296e0.js",
-    "static/js/483.1e329d8f.chunk.js": "/MahmoudMostafaGIS/study-area-new.git/static/js/483.1e329d8f.chunk.js",
-    "static/js/787.5fecaf4a.chunk.js": "/MahmoudMostafaGIS/study-area-new.git/static/js/787.5fecaf4a.chunk.js",
-    "index.html": "/MahmoudMostafaGIS/study-area-new.git/index.html",
-    "main.9d3b6b2a.css.map": "/MahmoudMostafaGIS/study-area-new.git/static/css/main.9d3b6b2a.css.map",
-    "main.fa6296e0.js.map": "/MahmoudMostafaGIS/study-area-new.git/static/js/main.fa6296e0.js.map",
-    "483.1e329d8f.chunk.js.map": "/MahmoudMostafaGIS/study-area-new.git/static/js/483.1e329d8f.chunk.js.map",
-    "787.5fecaf4a.chunk.js.map": "/MahmoudMostafaGIS/study-area-new.git/static/js/787.5fecaf4a.chunk.js.map"
+    "main.css": "/MahmoudMostafaGIS/study-area-new/static/css/main.9d3b6b2a.css",
+    "main.js": "/MahmoudMostafaGIS/study-area-new/static/js/main.f5ef535f.js",
+    "static/js/483.c7d856ca.chunk.js": "/MahmoudMostafaGIS/study-area-new/static/js/483.c7d856ca.chunk.js",
+    "static/js/787.5fecaf4a.chunk.js": "/MahmoudMostafaGIS/study-area-new/static/js/787.5fecaf4a.chunk.js",
+    "index.html": "/MahmoudMostafaGIS/study-area-new/index.html",
+    "main.9d3b6b2a.css.map": "/MahmoudMostafaGIS/study-area-new/static/css/main.9d3b6b2a.css.map",
+    "main.f5ef535f.js.map": "/MahmoudMostafaGIS/study-area-new/static/js/main.f5ef535f.js.map",
+    "483.c7d856ca.chunk.js.map": "/MahmoudMostafaGIS/study-area-new/static/js/483.c7d856ca.chunk.js.map",
+    "787.5fecaf4a.chunk.js.map": "/MahmoudMostafaGIS/study-area-new/static/js/787.5fecaf4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d3b6b2a.css",
-    "static/js/main.fa6296e0.js"
+    "static/js/main.f5ef535f.js"
   ]
 }
